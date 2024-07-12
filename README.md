@@ -1,2 +1,2 @@
 # ApiFake
-Api simulation with 3 for random data
+Api simulation with 3 routes for getting random data
